@@ -1,3 +1,16 @@
+# Visual Studio files
+.vs/
 bin/
 obj/
-env
+*.user
+*.suo
+*.user
+_ReSharper.*/
+*.sln.docstates
+
+# Environment variables
+.env
+
+# MacOS/System
+.DS_Store
+Thumbs.db
