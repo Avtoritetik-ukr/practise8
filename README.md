@@ -12,4 +12,4 @@
 
 1. **Клонувати репозиторій:**
    ```bash
-   git clone [https://github.com/Avtoritetik-ukr/practise8.git](https://github.com/Avtoritetik-ukr/practise8.git)
+git clone https://github.com/Avtoritetik-ukr/practise8.git
