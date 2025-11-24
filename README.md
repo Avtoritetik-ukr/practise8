@@ -13,6 +13,6 @@
 1. **Клонувати репозиторій:**
 git clone https://github.com/Avtoritetik-ukr/practise8.git
 2. **Перейти в папку з кодом:**
-cd practise8/src/src
+зайти в папку куди було скопійовано репозиторій, відкрити термінал в папці practise8 та вписати cd src/src
 3. **Запустити сервер**
-dotnet run
+після кроку 2 вписати в тойже термінал dotnet run
